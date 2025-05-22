@@ -25,11 +25,12 @@ Este repositório contém testes automatizados end-to-end desenvolvidos com [Cyp
 
 ## ✅ Funcionalidades Testadas
 
-- Login
-- Cadastro de Usuário
-- Cadastro de Funcionário
-- Upload de foto de perfil
-- Teste responsivo com viewport 
+- Login;
+- Cadastro de Usuário;
+- Cadastro de Funcionário;
+- Editar Funcionário;
+- Upload de foto de perfil Admin;
+- Teste responsivo com viewport.
 
 ---
 
