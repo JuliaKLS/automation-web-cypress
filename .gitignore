@@ -1,0 +1,17 @@
+# Node.js
+node_modules/
+.env
+package-lock.json
+
+# Cypress
+cypress/screenshots/
+cypress/videos/
+
+# VS Code
+.vscode/
+
+# Mac
+.DS_Store
+
+# Logs
+*.log
