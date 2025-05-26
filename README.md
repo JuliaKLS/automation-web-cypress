@@ -5,23 +5,23 @@ Este repositório contém testes automatizados end-to-end desenvolvidos com [Cyp
 ## 📁 Estrutura do Projeto
 ├── cypress/
 
-│ ├── e2e/ # Casos de teste
+│ ├── e2e/
 
-│ ├── fixtures/ # Arquivos de massa de dados (JSON, imagens)
+│ ├── fixtures/ 
 
-│ ├── screenshots/ # Prints gerados nos testes (ignorado no Git)
+│ ├── screenshots/ 
 
-│ └── support/ # Comandos e seletores customizados
+│ └── support/ 
 
 │ ├── seletores/
 
-├── node_modules/ # Dependências do projeto (ignorado no Git)
+├── node_modules/ 
 
-├── cypress.config.js # Configurações do Cypress
+├── cypress.config.js 
 
-├── package.json # Dependências e scripts
+├── package.json 
 
-├── .gitignore # Arquivos/pastas ignorados pelo Git
+├── .gitignore 
 
 ## ✅ Funcionalidades Testadas
 
